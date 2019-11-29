@@ -1,22 +1,3 @@
-# simple_nuxt
-
-> My premium Nuxt.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# NuxtアプリをNetlifyに最も簡単にデプロイする方法
+[NuxtをNetlifyにデプロイする方法](https://qiita.com/JDM/items/1ae097c020bf663f1dcb)  
+Qiitaに詳しく書いています。
